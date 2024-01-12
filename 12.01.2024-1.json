@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Marquez",
+    "age": 60,
+    "address": {
+        "street": "Hurst Plains",
+        "city": "North Adamberg",
+        "state": "Massachusetts",
+        "zip": "26521"
+    },
+    "contact": {
+        "phone": "693.412.7852x905",
+        "servicePhone": "800145647"
+    },
+    "birthday": "1965-09-01",
+    "ip": "23.194.99.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Level lay black make quite world return. Drug during reduce.\nInstead sell song help industry institution. Partner unit country.",
+        "bio": "Put deep action better without. My politics step sell level ability.\nCan meeting accept everybody first teach. Western avoid citizen machine enter drop. Everybody easy before green."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
