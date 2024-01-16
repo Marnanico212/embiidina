@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Hess",
+    "age": 12,
+    "address": {
+        "street": "Moore Overpass",
+        "city": "Ricardoburgh",
+        "state": "Minnesota",
+        "zip": "72362"
+    },
+    "contact": {
+        "phone": "3185560873",
+        "servicePhone": "800062920"
+    },
+    "birthday": "2013-19-07",
+    "ip": "62.131.65.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Rise service lose focus good he. Local most why political adult.",
+        "bio": "Out painting teacher traditional especially series. Today move heart such floor rise.\nAvoid fear successful either. Fight wife prepare alone wrong behavior drug. Fill system out."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
