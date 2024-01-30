@@ -1,0 +1,25 @@
+{
+    "name": "Susan Adkins",
+    "age": 28,
+    "address": {
+        "street": "Pearson Road",
+        "city": "West Julieville",
+        "state": "Ohio",
+        "zip": "61023"
+    },
+    "contact": {
+        "phone": "4162381906",
+        "servicePhone": "800353265"
+    },
+    "birthday": "1997-25-05",
+    "ip": "56.232.254.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Radio build modern read worker full effort. Beat cultural teacher cause war often court. Possible college police town factor.\nAudience try describe face. Seem people film lay.",
+        "bio": "President exist sister however when return. Support remain off late somebody. Issue another wear according.\nAnimal could person no big begin. Develop center approach."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
