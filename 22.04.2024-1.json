@@ -1,0 +1,25 @@
+{
+    "name": "Jeffery Wheeler",
+    "age": 64,
+    "address": {
+        "street": "Felicia Cliffs",
+        "city": "South James",
+        "state": "Montana",
+        "zip": "69911"
+    },
+    "contact": {
+        "phone": "761-405-4430",
+        "servicePhone": "800972305"
+    },
+    "birthday": "1961-31-07",
+    "ip": "60.171.86.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Could candidate in dream close walk simply team. Actually discuss next clearly while he nothing.\nBillion never organization information ago exactly.",
+        "bio": "Sport sign system few hear. System country north gun just. Surface difference within result."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
