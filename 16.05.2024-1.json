@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Green",
+    "age": 33,
+    "address": {
+        "street": "Hancock Dale",
+        "city": "North Colton",
+        "state": "Rhode Island",
+        "zip": "75842"
+    },
+    "contact": {
+        "phone": "264.625.2384",
+        "servicePhone": "800304563"
+    },
+    "birthday": "1992-29-04",
+    "ip": "159.143.21.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Child benefit issue as appear marriage page.\nCountry economy part vote include follow whom industry.",
+        "bio": "Attack line become raise mission. Get sit relationship suddenly mind another. Home onto health Democrat."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
