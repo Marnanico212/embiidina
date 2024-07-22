@@ -1,0 +1,25 @@
+{
+    "name": "Monica Miller",
+    "age": 12,
+    "address": {
+        "street": "Brittany Extension",
+        "city": "East Scottmouth",
+        "state": "Virginia",
+        "zip": "34148"
+    },
+    "contact": {
+        "phone": "496-227-8397",
+        "servicePhone": "800237682"
+    },
+    "birthday": "2013-28-11",
+    "ip": "6.242.85.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Drop just wife difficult price. Piece or sea contain here.\nProfessor like responsibility ever. Have clear office hold view. Tend bag environment according watch music.",
+        "bio": "World also nothing policy base future. Himself everything must behind free deep. Hot seven admit."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
