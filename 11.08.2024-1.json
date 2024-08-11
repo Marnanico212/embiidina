@@ -1,0 +1,25 @@
+{
+    "name": "David Wells",
+    "age": 83,
+    "address": {
+        "street": "Tanner Pike",
+        "city": "West Emily",
+        "state": "Maryland",
+        "zip": "57279"
+    },
+    "contact": {
+        "phone": "510-559-3864",
+        "servicePhone": "800641581"
+    },
+    "birthday": "1942-26-05",
+    "ip": "201.10.153.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Possible edge easy drive material recognize society. Never in rich necessary move budget behavior. Themselves thank defense TV billion. Determine pretty decade minute.",
+        "bio": "Condition yeah the as other measure. Growth left question. Until carry none hand authority.\nEdge position successful official. Work outside put business."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
