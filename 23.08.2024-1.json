@@ -1,0 +1,25 @@
+{
+    "name": "Bailey Harding",
+    "age": 45,
+    "address": {
+        "street": "Tina Station",
+        "city": "Lake Maryside",
+        "state": "South Carolina",
+        "zip": "33022"
+    },
+    "contact": {
+        "phone": "001-480-900-6978x3575",
+        "servicePhone": "800375986"
+    },
+    "birthday": "1980-14-02",
+    "ip": "183.154.216.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Determine everything himself. Plant record rather between occur happen stuff.\nJob bring animal dog environment several. Worry own heart wind score pay happen.",
+        "bio": "Produce news force particular idea. Apply ball coach eye certainly wind. End into real hope these.\nRate start reality yourself popular range try. If whatever dinner prepare test list."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
