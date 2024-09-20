@@ -1,0 +1,25 @@
+{
+    "name": "Richard Martinez",
+    "age": 29,
+    "address": {
+        "street": "Singh Rest",
+        "city": "Port Jerryside",
+        "state": "Michigan",
+        "zip": "05188"
+    },
+    "contact": {
+        "phone": "+1-994-396-0286x629",
+        "servicePhone": "800469995"
+    },
+    "birthday": "1996-24-09",
+    "ip": "195.56.31.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Relationship last physical employee. Leave lot good continue movement suddenly. Consumer this avoid together.",
+        "bio": "Think or officer health development organization argue realize. Strong put according fact low leader she.\nSite own paper sometimes increase morning. New mission success music candidate talk."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
