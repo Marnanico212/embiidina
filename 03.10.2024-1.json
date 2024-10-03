@@ -1,0 +1,25 @@
+{
+    "name": "Amy Ross",
+    "age": 109,
+    "address": {
+        "street": "Robert Ranch",
+        "city": "East Kathleen",
+        "state": "Alaska",
+        "zip": "18047"
+    },
+    "contact": {
+        "phone": "(468)527-0179",
+        "servicePhone": "800302346"
+    },
+    "birthday": "1916-02-09",
+    "ip": "137.9.89.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Require turn store general. Many one list enjoy particular Mr guess TV. Box lead hit push recently better send second.",
+        "bio": "Such simply sometimes can your fall in. Check often kid idea.\nYour station like level today everybody style. Choose present general charge everyone cut."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
