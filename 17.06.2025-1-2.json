@@ -1,0 +1,25 @@
+{
+    "name": "Madison Torres",
+    "age": 94,
+    "address": {
+        "street": "Wright Summit",
+        "city": "South Rebecca",
+        "state": "Nebraska",
+        "zip": "21366"
+    },
+    "contact": {
+        "phone": "001-765-614-6785x5592",
+        "servicePhone": "800250397"
+    },
+    "birthday": "1931-03-02",
+    "ip": "137.171.91.245",
+    "foo": "bar",
+    "profile": {
+        "about": "On either cut effect wonder poor letter face. Bank important finish view research dark throughout pay.\nDesign cost of fear simply into fill. Minute across around pay star budget.",
+        "bio": "Series plant without commercial various. Parent I through role table. Effect without explain nature development. Area finally without value check."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
