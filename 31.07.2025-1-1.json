@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Rubio",
+    "age": 3,
+    "address": {
+        "street": "Morris Trail",
+        "city": "Joshuaton",
+        "state": "Kentucky",
+        "zip": "31527"
+    },
+    "contact": {
+        "phone": "+1-955-696-6497",
+        "servicePhone": "800749110"
+    },
+    "birthday": "2022-20-08",
+    "ip": "24.47.27.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Own treatment boy better mention free. Affect front worry southern alone Congress expert. Debate building business whatever suddenly opportunity board.",
+        "bio": "Water time something pull. Report capital money those.\nNewspaper get tend run himself push. Including realize along him price thank sea. Language here lead marriage ok owner. Catch more story work."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
