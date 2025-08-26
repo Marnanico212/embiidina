@@ -1,0 +1,25 @@
+{
+    "name": "Laura Reyes",
+    "age": 1,
+    "address": {
+        "street": "Martin Squares",
+        "city": "North Dianeport",
+        "state": "North Dakota",
+        "zip": "86798"
+    },
+    "contact": {
+        "phone": "(541)391-2676x78554",
+        "servicePhone": "800593622"
+    },
+    "birthday": "2024-25-03",
+    "ip": "204.1.186.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Popular could above cause else put mean. Speech teach establish here option. Enjoy task these garden.\nScene later evidence feeling. Office home fall mean. Participant again sister knowledge.",
+        "bio": "Herself current pay financial area without. Among join story usually.\nSeem Democrat make see carry performance box. Cup middle of sometimes reach. Ability expect central hear Mrs."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
