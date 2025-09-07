@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Gomez",
+    "age": 100,
+    "address": {
+        "street": "Shelby Circle",
+        "city": "Robertshire",
+        "state": "Massachusetts",
+        "zip": "69522"
+    },
+    "contact": {
+        "phone": "4146028833",
+        "servicePhone": "800570298"
+    },
+    "birthday": "1925-30-07",
+    "ip": "66.219.187.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Style successful safe Democrat. Control true our partner play clear expect. Benefit someone bar federal.\nMillion campaign discussion government.",
+        "bio": "Choose might scene base. Win eight always perform conference. Agency wait seven. Film without trouble money."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
