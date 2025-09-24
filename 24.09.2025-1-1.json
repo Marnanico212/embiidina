@@ -1,0 +1,25 @@
+{
+    "name": "David Spencer",
+    "age": 64,
+    "address": {
+        "street": "Chavez Wells",
+        "city": "Ramirezshire",
+        "state": "Wisconsin",
+        "zip": "99778"
+    },
+    "contact": {
+        "phone": "(662)956-7599",
+        "servicePhone": "800463934"
+    },
+    "birthday": "1961-15-05",
+    "ip": "118.48.175.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Event network can detail from from interest. Somebody instead involve another. In experience gas war past. How actually likely many.",
+        "bio": "Media pull action life indeed score dog. Difficult yeah political another.\nFilm sing cold college other son half. Early actually few. Offer respond here last should."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
