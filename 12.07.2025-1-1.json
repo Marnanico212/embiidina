@@ -1,0 +1,25 @@
+{
+    "name": "Mary Pugh",
+    "age": 2,
+    "address": {
+        "street": "Hampton Fort",
+        "city": "Mejiamouth",
+        "state": "Alabama",
+        "zip": "31254"
+    },
+    "contact": {
+        "phone": "(935)515-1809x27211",
+        "servicePhone": "800693584"
+    },
+    "birthday": "2023-07-09",
+    "ip": "182.154.253.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Whole western knowledge myself collection full. People hour detail never.\nI deep professor standard item experience. List last close despite develop. Training region star both.",
+        "bio": "Also reality garden single scientist catch hit. Provide road what magazine we lawyer. Situation against somebody approach church.\nDark newspaper front general. Shoulder eat raise letter phone turn."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
