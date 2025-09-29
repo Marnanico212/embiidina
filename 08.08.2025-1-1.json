@@ -1,0 +1,25 @@
+{
+    "name": "Angelica Booker",
+    "age": 44,
+    "address": {
+        "street": "Kevin Mall",
+        "city": "Stricklandchester",
+        "state": "North Carolina",
+        "zip": "79385"
+    },
+    "contact": {
+        "phone": "756.680.1753x11741",
+        "servicePhone": "800845720"
+    },
+    "birthday": "1981-23-10",
+    "ip": "151.31.191.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Nice me cover remain effect policy idea environmental. Represent about line play suffer. Energy young smile. Fire total manage never else.",
+        "bio": "Cut weight what so TV. Nature as to matter attention drop dinner. Director here century language anything too black. Measure remain wide bank."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
