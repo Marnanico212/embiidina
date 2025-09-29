@@ -1,0 +1,25 @@
+{
+    "name": "Keith Mcdaniel",
+    "age": 3,
+    "address": {
+        "street": "Tina Tunnel",
+        "city": "Hunterfurt",
+        "state": "Alaska",
+        "zip": "10526"
+    },
+    "contact": {
+        "phone": "750-662-0765",
+        "servicePhone": "800613488"
+    },
+    "birthday": "2022-12-05",
+    "ip": "213.218.198.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Its than throughout agreement. Medical court event run. Design him different explain again young.\nStill nothing drug red. Game song lay across. Center claim big wall.",
+        "bio": "New down tax source doctor page region. Laugh take the seat over. Let already treat side quickly similar. Responsibility give card board treatment election.\nHouse behind race all far every."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
