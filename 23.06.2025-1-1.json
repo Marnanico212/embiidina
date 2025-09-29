@@ -1,0 +1,25 @@
+{
+    "name": "Mark Rosales",
+    "age": 89,
+    "address": {
+        "street": "Stone Ville",
+        "city": "Lake Jonathanview",
+        "state": "Oregon",
+        "zip": "36647"
+    },
+    "contact": {
+        "phone": "(529)545-0780x3692",
+        "servicePhone": "800562601"
+    },
+    "birthday": "1936-24-01",
+    "ip": "181.232.241.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Assume blood itself especially capital yet. House create writer particular themselves country.",
+        "bio": "Thousand others edge cost. Never team just film. Than player rich. Become visit tell sister."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
