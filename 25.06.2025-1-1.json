@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Harris",
+    "age": 114,
+    "address": {
+        "street": "Megan Meadow",
+        "city": "Leahhaven",
+        "state": "Oklahoma",
+        "zip": "11397"
+    },
+    "contact": {
+        "phone": "(591)734-9246",
+        "servicePhone": "800911358"
+    },
+    "birthday": "1911-17-08",
+    "ip": "205.215.50.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Seat walk up beyond house. Voice theory improve past school crime fish college. Trip light social necessary possible.",
+        "bio": "Seat agreement force east. Number girl ten source. Second father little including. Plan pass compare similar design its."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
