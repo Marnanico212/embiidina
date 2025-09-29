@@ -1,0 +1,25 @@
+{
+    "name": "Dylan Bradley",
+    "age": 76,
+    "address": {
+        "street": "Christopher Plains",
+        "city": "Howardchester",
+        "state": "Connecticut",
+        "zip": "15909"
+    },
+    "contact": {
+        "phone": "+1-272-949-9956x207",
+        "servicePhone": "800272969"
+    },
+    "birthday": "1949-27-03",
+    "ip": "216.250.52.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Myself many goal current project imagine boy. Wall nice car career.\nAgree deep brother short concern successful write. Him per star report actually.",
+        "bio": "Should main power lay left pay truth. Main then month. Site fall participant establish born staff military. Test box evening southern actually carry."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
