@@ -1,0 +1,25 @@
+{
+    "name": "Eric Perry",
+    "age": 43,
+    "address": {
+        "street": "Matthew Valley",
+        "city": "East Alfredborough",
+        "state": "Florida",
+        "zip": "25715"
+    },
+    "contact": {
+        "phone": "503-380-0799x056",
+        "servicePhone": "800597420"
+    },
+    "birthday": "1982-17-08",
+    "ip": "190.43.250.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Health blue miss final guess. Left not whatever miss phone.\nPurpose news activity building they training. Price name value form. Range college bring. Not firm seek item step growth three pass.",
+        "bio": "Might product majority single learn. Drive record sometimes husband send let building.\nOut huge toward push recognize. Car north chair past. Piece beautiful we movie wife."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
