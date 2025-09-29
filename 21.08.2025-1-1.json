@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Diaz",
+    "age": 21,
+    "address": {
+        "street": "Frank Coves",
+        "city": "New Jessica",
+        "state": "Missouri",
+        "zip": "25272"
+    },
+    "contact": {
+        "phone": "345-762-9645",
+        "servicePhone": "800307968"
+    },
+    "birthday": "2004-27-03",
+    "ip": "50.198.23.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Full choice weight low why four. View treatment evidence eye line animal father. Strategy serious foreign way dog exist.",
+        "bio": "Money poor read wife once create. Today scene development station table baby PM hospital. Ask represent discussion chance firm."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Miller",
+    "age": 51,
+    "address": {
+        "street": "Patterson River",
+        "city": "East Sonya",
+        "state": "New Hampshire",
+        "zip": "84728"
+    },
+    "contact": {
+        "phone": "001-663-414-9787",
+        "servicePhone": "800022491"
+    },
+    "birthday": "1974-31-12",
+    "ip": "172.116.78.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Energy minute senior use alone mission. Business instead really.\nTogether clearly year half language. Full discover not kitchen themselves.",
+        "bio": "Challenge try industry pull. When price yard senior various common color. Teacher seven region control.\nPopulation friend only seem approach during."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}

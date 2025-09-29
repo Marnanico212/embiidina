@@ -1,0 +1,25 @@
+{
+    "name": "Peter Graham",
+    "age": 83,
+    "address": {
+        "street": "Bryan Rapid",
+        "city": "Stevenport",
+        "state": "Louisiana",
+        "zip": "17379"
+    },
+    "contact": {
+        "phone": "666-972-1564x542",
+        "servicePhone": "800310095"
+    },
+    "birthday": "1942-27-08",
+    "ip": "65.205.112.47",
+    "foo": "bar",
+    "profile": {
+        "about": "About goal threat customer expert coach. Piece exactly everything her chair pass.\nIdentify major box campaign claim task look. Play resource when majority.",
+        "bio": "Economy develop financial debate knowledge pick. Institution interview blood personal. Ready smile attention list fire. Cut house operation green."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
